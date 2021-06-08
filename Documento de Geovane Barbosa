@@ -1,0 +1,128 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+body {
+    font-size: 1em;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #ADD8E6;
+}
+
+header{
+    background: #00008B;
+    padding: 15px;
+    text-align: center;
+}
+
+#logo, nav{
+    padding: 10px;
+
+}
+#logo h1{
+    color: #6959CD;
+
+}
+a:link, a:visited{
+    color: #D8BFD8;
+}
+
+.blog{
+    color: #ffffff;
+}
+a{
+    text-decoration: none;
+
+}
+a:hover{
+    text-decoration: underline;
+}
+
+
+header a{
+    color: #ffffff;
+    text-decoration: none;
+    padding: 8px 12px;
+}
+header a:link, a:visited{
+    color: #D8BFD8;
+}
+header a:hover{
+    background: #2F4F4F;
+    text-decoration: none;
+
+    color: #32CD32;
+
+
+}
+.datapostagem{ 
+    font-size: 0.7em;
+}
+
+main{
+    margin: 15px auto;
+    
+    width: 920px;
+    
+}
+article{
+    float: left;
+    width: 660px;
+    background: white;
+    margin-bottom: 15px;
+}
+aside{
+    width: 240px;
+    float: right;
+    
+}
+footer{
+    background: #ccc;
+    clear: both;
+    text-align: center;
+    padding: 15px;
+}
+h3{
+    color: #191958;
+}
+#postagens{
+    margin-bottom: 20px;
+    border-bottom: 1px solid #fff;
+    padding: 20px;
+    display: block;
+    
+}
+#postagens{
+    background: white;
+    padding: 20px;
+    margin-bottom: 20px;
+    
+}
+#postagem2{
+    padding: 20px;
+    margin-bottom: 20px;
+    background: white;
+    border-top: grey;
+}
+ 
+h3{
+    color: #8B008B;
+    background: #ccc;
+
+}
+#conteudo-lateral{
+    background: white;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+.postagemlateral{
+    font-size: 0.8em;
+    padding: 5px;
+    border-bottom: 1px dotted #f4f4f4 ;
+}
+.postagemlateral a{
+    color: black;
+}
+section h1{
+    font-size: 30px;
+}
